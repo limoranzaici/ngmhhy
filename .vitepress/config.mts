@@ -15,11 +15,11 @@ export interface ThemeConfig {
   poweredList: { name: string; url: string }[]
 
   //gitalk
-  clientID: Ov23libtcGpZfIYYReuj
-  clientSecret: 1ab4cd064cf396668b3e260aa53258efa2b708c8
-  repo: ngmhhy
-  owner: limoranzaici
-  admin: [limoranzaici]
+  clientID: 'Ov23libtcGpZfIYYReuj'
+  clientSecret: '1ab4cd064cf396668b3e260aa53258efa2b708c8'
+  repo: 'ngmhhy'
+  owner: 'limoranzaici'
+  admin: ['limoranzaici']
 }
 
 export default defineConfigWithTheme<ThemeConfig>({
