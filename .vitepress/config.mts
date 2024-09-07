@@ -48,10 +48,10 @@ export default defineConfigWithTheme<ThemeConfig>({
   ignoreDeadLinks: true,
   // 生成站点地图
   // sitemap: {
-  //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
+  //   hostname: 'https://www.cxkun.top',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "小默然",
+  description: "小默然",
   themeConfig: {
     // navBar
     menuList: [
@@ -60,30 +60,27 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
-    motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
+    videoBanner: true,
+    name: "小默然",
+    welcomeText: '你好，小默然！',
+    motto: ['你干嘛哈哈哟！！！'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
-      { icon: 'wechat', url: 'https://weixin.qq.com/' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/1247806375' },
+      { icon: 'qq', url: 'https://wpa.qq.com/wpa_jump_page?v=3&uin=3350373688&site=qq&menu=yes' },
     ],
 
     //footer配置
-    footerName: 'Sensei',
+    footerName: '小默然',
     poweredList: [
-      { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
-      { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
+      { name: 'XiaoMoran', url: 'https://www.cxkun.top' },
     ],
 
     //gitalk配置
     clientID: 'Ov23lia9U9wFN3WMyoKK',
     clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
     repo: 'vitepress-theme-bluearchive',
-    owner: 'Alittfre',
-    admin: ['Alittfre'],
+    owner: '小默然',
+    admin: ['小默然'],
   },
   markdown: {
     theme: 'github-light',
