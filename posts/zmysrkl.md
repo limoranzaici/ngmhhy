@@ -5,13 +5,13 @@ tags: [生活记录,生活中的点滴]
 head:
   - - meta
     - name: description
-      content: 今天是你的生日，祝你生日快乐！
+      content: 今天是你的生日，请收下独属于你的生日礼物！
   - - meta
     - name: keywords
-      content: 今天是你的生日，祝你生日快乐！
+      content: 今天是你的生日，请收下独属于你的生日礼物！
 ---
 
-今天是你的生日，祝你生日快乐！
+今天是你的生日，请收下独属于你的生日礼物！
 
 ---
 
